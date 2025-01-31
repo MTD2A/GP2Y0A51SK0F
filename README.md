@@ -1,2 +1,3 @@
 # GP2Y0A51SK0F
-https://github.com/MTD2A/GP2Y0A21YK0F
+
+## [Go to MTD2A/GP2Y0A21YK0F](https://github.com/MTD2A/GP2Y0A21YK0F)
